@@ -12,3 +12,6 @@
 
 #### Iniciar o arquivo de configuração do typscript
 - tsc --init
+
+#### Roda o projeto TypeScript.
+- npm run dev
