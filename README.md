@@ -9,3 +9,6 @@
 ## Colocar o codigo no scripts do arquivo package.json.
 - "scripts": { ... }
 - "dev": "_NODE_ENV=development webpack --progress --watch"
+
+#### Iniciar o arquivo de configuração do typscript
+- tsc --init
